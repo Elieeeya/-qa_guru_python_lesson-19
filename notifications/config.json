@@ -3,14 +3,14 @@
     "project": "qa_guru_python_lesson-19",
     "environment": "dev",
     "comment": "Build Results",
-    "reportLink": "https://jenkins.autotests.cloud/job/qa_guru_python_flow-1_lesson-11_Elieeeya/5/",
+    "reportLink": "https://jenkins.autotests.cloud/job/qa_guru_python_lesson-19/allure/",
     "language": "en",
     "allureFolder": "allure-report/",
     "enableChart": true
   },
   "telegram": {
-    "token": "a5207087185:AAGckEHzZXrYgDXaEH-oUwzpQaEe-Ge3E018",
-    "chat": "-10017220068017",
+    "token": "",
+    "chat": "",
     "replyTo": ""
   }
 }
